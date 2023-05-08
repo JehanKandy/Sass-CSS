@@ -17,4 +17,12 @@ section .content {
   font-size: 30px;
   font-weight: bold;
   background-color: yellow;
+}
+
+.testBtn-basic {
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
