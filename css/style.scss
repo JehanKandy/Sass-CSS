@@ -2,6 +2,8 @@ $mycolor: lightblue;
 $myfontsize: 20px;
 $myfontColor: red;
 
+@import "reset";
+
 body{
     background-color: $mycolor;
 }
