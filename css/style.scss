@@ -33,7 +33,10 @@ section{
 
 // now include the redColor-text
 
-
+.important{
+    @include redColor-text();
+    background-color: yellow;
+}
 
 
 //------------ End @mixin and @include --------------------------

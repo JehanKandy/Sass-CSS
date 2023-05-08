@@ -10,4 +10,11 @@ section .content {
   font-family: Helvetica, sans-serif;
   font-size: 18px;
   font-weight: bold;
+}
+
+.important {
+  color: red;
+  font-size: 3px;
+  font-weight: bold;
+  background-color: yellow;
 }/*# sourceMappingURL=style.css.map */
