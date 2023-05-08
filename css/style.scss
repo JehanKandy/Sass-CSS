@@ -58,4 +58,10 @@ section{
     background-color: red;
 }
 
+.testBtn-success{
+    @extend .testBtn-basic;
+    background-color: green;
+    color:white;
+}
+
 //-------------- End @extend --------------

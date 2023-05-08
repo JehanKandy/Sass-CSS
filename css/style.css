@@ -19,7 +19,7 @@ section .content {
   background-color: yellow;
 }
 
-.testBtn-basic, .testBtn-report {
+.testBtn-basic, .testBtn-success, .testBtn-report {
   border: none;
   padding: 15px 30px;
   text-align: center;
@@ -29,4 +29,9 @@ section .content {
 
 .testBtn-report {
   background-color: red;
+}
+
+.testBtn-success {
+  background-color: green;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
