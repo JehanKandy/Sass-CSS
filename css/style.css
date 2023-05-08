@@ -14,7 +14,7 @@ section .content {
 
 .important {
   color: red;
-  font-size: 3px;
+  font-size: 30px;
   font-weight: bold;
   background-color: yellow;
 }/*# sourceMappingURL=style.css.map */
