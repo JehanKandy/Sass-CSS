@@ -25,6 +25,15 @@ section{
 
 //-------------- @mixin and @include ---------------------
 
+@mixin redColor-text{
+    color: red;
+    font-size: 3px;
+    font-weight: bold;
+}
+
+// now include the redColor-text
+
+
 
 
 //------------ End @mixin and @include --------------------------
