@@ -2,12 +2,15 @@ $mycolor: lightblue;
 $myfontsize: 20px;
 $myfontColor: red;
 
+//------- import common file called reset.sass
 @import "reset";
+//---------------------------------------------------
 
 body{
     background-color: $mycolor;
 }
 
+// nesting in sass/scss
 section{
     .content{
         font:{
@@ -17,3 +20,4 @@ section{
         }
     }
 }
+// -------------- end nesting in sass/scss -------------
