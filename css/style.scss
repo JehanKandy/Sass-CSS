@@ -53,6 +53,9 @@ section{
 
 //now use testBtn-basic in other button classes
 
-
+.testBtn-report{
+    @extend .testBtn-basic;
+    background-color: red;
+}
 
 //-------------- End @extend --------------

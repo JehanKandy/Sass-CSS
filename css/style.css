@@ -19,10 +19,14 @@ section .content {
   background-color: yellow;
 }
 
-.testBtn-basic {
+.testBtn-basic, .testBtn-report {
   border: none;
   padding: 15px 30px;
   text-align: center;
   font-size: 20px;
   cursor: pointer;
+}
+
+.testBtn-report {
+  background-color: red;
 }/*# sourceMappingURL=style.css.map */
